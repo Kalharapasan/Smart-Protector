@@ -1,0 +1,77 @@
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe.config
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.pdb
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.xml
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Form1.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Resources.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.vbproj.GenerateResource.Cache
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.exe
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.xml
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.pdb
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Bunifu_UI_v1.52.dll
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.full_check.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.welcome.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.scan.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.speedup.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.cleanup.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.settings.resources
+c:\users\iksoft original\documents\visual studio 2012\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.close.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe.config
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.exe
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.xml
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.pdb
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.pdb
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.xml
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.vbprojResolveAssemblyReference.cache
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.cleanup.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.close.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Form1.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.full_check.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Resources.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.scan.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.settings.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.speedup.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.welcome.resources
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.vbproj.GenerateResource.Cache
+C:\Users\Iksoft Original GH\Documents\Visual Studio 2015\Projects\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.quick_scan.resources
+G:\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe.config
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.exe
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.xml
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.pdb
+G:\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe
+G:\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.pdb
+G:\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.xml
+G:\Smart Protector 2019\Smart Protector 2019\bin\Debug\Bunifu_UI_v1.52.dll
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.cleanup.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.close.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Form1.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.full_check.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Resources.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.quick_scan.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.scan.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.settings.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.speedup.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.welcome.resources
+G:\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.vbproj.GenerateResource.Cache
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe.config
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.exe
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.xml
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.pdb
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.exe
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.pdb
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\bin\Debug\Smart Protector 2019.xml
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.xml
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.vbprojResolveAssemblyReference.cache
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.cleanup.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.close.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Form1.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.full_check.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.Resources.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.quick_scan.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.scan.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.settings.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.speedup.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart_Protector_2019.welcome.resources
+E:\Software_Project\VB.NET\Downloads\Smart Protector 2019\Smart Protector 2019\obj\Debug\Smart Protector 2019.vbproj.GenerateResource.Cache
