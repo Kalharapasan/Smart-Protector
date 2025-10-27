@@ -2,6 +2,7 @@
 
 **Smart Protector 2019** is a Windows desktop utility developed in **Visual Basic .NET (VB.NET)** designed to optimize and protect your computer.  
 It provides quick and full system scans, junk cleanup, performance boost tools, and basic privacy protection.
+<img width="798" height="493" alt="Capture" src="https://github.com/user-attachments/assets/158cde65-2813-4270-b408-bad622f054ca" />
 
 ---
 
